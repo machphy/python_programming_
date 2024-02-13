@@ -1,2 +1,2 @@
-print("i heat my life")
+print("i destroy my life")
 print("ok yes ")
