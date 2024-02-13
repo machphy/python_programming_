@@ -1,2 +1,2 @@
-print("i love u")
-print("ok i love u ")
+print("i heat my life")
+print("ok yes ")
