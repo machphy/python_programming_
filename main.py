@@ -1,2 +1,2 @@
-print("i destroy my life")
-print("ok yes ")
+import pandas
+print("hi banni")
