@@ -1,6 +1,4 @@
-a=True
-print(a)
-type(a)
+
 # >>> x=3+5i
 #   File "<stdin>", line 1
 #     x=3+5i
