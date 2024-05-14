@@ -4,3 +4,4 @@ if a>0:
 else:
     print('negative') 
     print('bye')
+    print('bye')    
