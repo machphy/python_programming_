@@ -4,3 +4,6 @@ n=int(input('enter the toatl terms'))
 
 for t in range (a,a+d*n,d):
     print(t)
+
+
+print 👣
