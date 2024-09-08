@@ -4,4 +4,4 @@ for x in list:
     if x not in list2 :
         list2.append(x)
 
-print(list2)
+print(list2) 
