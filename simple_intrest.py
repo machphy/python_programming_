@@ -1,7 +1,4 @@
-# Wap to Find Simple Intrest
-# Formula Based Questions
 
-# SI = (P*R*T)/100
 
 P= 20000
 
