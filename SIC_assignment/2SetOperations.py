@@ -7,6 +7,5 @@ print("Union:", union_set)
 intersection_set = A.intersection(B)
 print("Intersection:", intersection_set)
 
-
 difference_set = A.difference(B)
 print("Difference (A - B):", difference_set)
