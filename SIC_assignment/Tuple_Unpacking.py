@@ -5,5 +5,6 @@ def sumoftuple(t):
 
 test_tuple = (3, 4, 5)
 sum_result, product_result = sumoftuple(test_tuple)
+
 print("Sum of first two:", sum_result)
 print("Product of last two:", product_result)
