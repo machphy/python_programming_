@@ -1,0 +1,2 @@
+name = "Cloud"
+print(name)
