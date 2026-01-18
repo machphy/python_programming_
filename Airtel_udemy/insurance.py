@@ -21,13 +21,13 @@
 
 company_name=input ("enter u com name")
 num_emp_in_comp=("ent_no_of_emp")
-location=("enter location ")
+location=("enter location")
 lowest_price = input("Enter the lowest price for a policy: ")
 highest_price = input("Enter the highest price for a policy: ")
 
 # output
 
-print(
+print( 
     f"\n we are {company_name} location in {location}"
     f" our {num_emp_in_comp} kuch nhi krega "
     f" with loq sail ${lowest_price} to ${highest_price} per day"
