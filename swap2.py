@@ -1,0 +1,16 @@
+A = 20
+B = 45
+print("Before Swap Value of A is = ", A)
+print("Before Swap Value of B is = ", B)
+A = A + B    
+B = A - B    
+A = A - B    
+print("After Swap Value of A is = ", A)
+print("After Swap Value of B is = ", B)
+C = 80
+D = 75
+print("Before Swap Value of C is = ", C)
+print("Before Swap Value of D is = ", D)
+C , D = 75 , 80
+print("After Swap Value of C is = ", C)
+print("After Swap Value of D is = ", D)

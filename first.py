@@ -1,0 +1,5 @@
+print(5)
+print("h" , 54)
+print("byee")
+print(17*54)
+print(17-54)
