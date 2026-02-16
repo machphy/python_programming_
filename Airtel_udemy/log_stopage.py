@@ -92,4 +92,4 @@ def main():
 
 
 if __name__ in ("__main__", "builtins"):
-    
+    main()
