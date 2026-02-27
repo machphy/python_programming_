@@ -16,4 +16,4 @@ sed -i 's/^AllowDangerous=true/AllowDangerous=false/g' "$FILE"
 # Verify, else rollback
 grep -q '^AllowDangerous=false' "$FILE" || { cp -a "$BACKUP" "$FILE"; exit 2; }
 
-echo "Remediation applied. Backup: $new"
+
