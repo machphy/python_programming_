@@ -58,4 +58,7 @@ def simulate_incident():
         print("→ Notify Incident Response")
         print("→ Prepare board-level summary")
 
-    
+    print("\nai_part human.")
+
+if __name__ == "__main__":
+    simulate_incident()
